@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Full stack frameworks and and DevOps Concepts**
 
-- 👨‍💻 All of my projects are available at [https://jinil09.github.io/MyProfile/](https://jinil09.github.io/MyProfile/)
+- 👨‍💻 All of my projects are available at [https://jinil09.github.io/Myortfolio/](https://jinil09.github.io/MyPortfolio/)
 
 - 💬 Ask me about **Java, MERN & MEAN development, DSA**
 
 - 📫 How to reach me **jinil.prajapati09@gmail.com**
 
-- 📄 Know about my experiences [https://jinil09.github.io/MyProfile/](https://jinil09.github.io/MyProfile/)
+- 📄 Know about my experiences [https://jinil09.github.io/MyPortfolio/](https://jinil09.github.io/MyPortfolio/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
